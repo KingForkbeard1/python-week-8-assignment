@@ -13,19 +13,17 @@ Python 3.9+
 
 pandas, matplotlib, seaborn, wordcloud
 
-Streamlit (Python framework for web apps)
+Streamlit
 
 🚀 How to Run
-git clone https://github.com/KingForkbeard1/Frameworks_Assignment.git
-cd Frameworks_Assignment
+git clone <your-repo-url>
+cd <repo-folder>
 pip install pandas matplotlib seaborn wordcloud streamlit
 streamlit run cord19_analysis.py
 
 📁 Dataset
 
-Dataset: CORD-19 Research Challenge – Kaggle
-
-Used: metadata file
+The project uses the metadata file from the CORD-19 research dataset.
 
 👨‍💻 Author
 
